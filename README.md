@@ -1,2 +1,2 @@
-# ApkPenggajian
+# SistemPenggajian
 Aplikasi Penggajian Perusahaan
